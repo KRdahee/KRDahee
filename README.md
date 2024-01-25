@@ -39,10 +39,10 @@
          <a href=http> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
           </div>  <br> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahea&layout=compact)](https://github.com/KRDahee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact)](https://github.com/KRDahee/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?KRDahee=anuraghazra&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?KRDahee=KRDahee&show_icons=true&theme=dark)
 
 </div>
     
