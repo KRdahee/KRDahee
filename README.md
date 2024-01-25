@@ -3,12 +3,12 @@
 </div>
 <div align= "center"> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
-        <br>지속적으로 성장하기 위해 끊임없이 배우고 노력하는 신입 개발자 입니다!(프로필 아직 작성중 클릭 금지 ㅋㅋ)</h3><br>  
+        <br>지속적으로 성장하기 위해 끊임없이 배우고 노력하는 신입 개발자 입니다!</h3><br>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">웹개발에 관심을 가지고 있는 신입입니다. 백엔드/서버개발 분야에 관심이 많고 HTML, Java, JavaScript, Java Servlet, CSS3, jQuery, JSP, Spring 등의 기술을 보유한 신입 개발자입니다.</div><br> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks 📚</h2><br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
@@ -28,7 +28,8 @@
 <br>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"><br>
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white"><br>
 
 <br>
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
