@@ -41,7 +41,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💬 Contact me 💬</h2><br> 
     <div align= "center"> <a href=http> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=dhnotes.tistory.com"> </a>
          <a href=mailto:huidll97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:huidll97@gmail.com"> </a>
-         <a href=http> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
+         <a href=http> <img src="https://img.shields.io/badge/Instagram-#4000BF?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
           </div><br> 
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact)](https://github.com/KRDahee/github-readme-stats)<br>
