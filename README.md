@@ -38,11 +38,11 @@
          <a href=mailto:huidll97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:huidll97@gmail.com"> </a>
          <a href=http> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
           </div>  <br> 
-    <div align= "center"> 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahea&layout=compact)](https://github.com/KRDahee/github-readme-stats)</div> 
-    </div>
-    <div align= "center"> 
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?KRDahee=anuraghazra&show_icons=true&theme=dark)
-    </div> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahea&layout=compact)](https://github.com/KRDahee/github-readme-stats)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?KRDahee=anuraghazra&show_icons=true&theme=dark)
+
 </div>
     
