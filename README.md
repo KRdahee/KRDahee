@@ -46,12 +46,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact)](https://github.com/KRDahee/github-readme-stats)<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?KRDahee=anuraghazra&show_icons=true&theme=dark)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRDahee&show_icons=true&theme=dark)<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?KRDahee=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KRDahee&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?KRDahee=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KRDahee&repo=convoychat" />
 </a><br>    
 </div>
