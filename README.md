@@ -1,10 +1,10 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HelloI'mDahee&fontSize=70&fontColor=FFFFFF"/>	
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello! I'm Dahee&fontSize=70&fontColor=FFFFFF"/>	
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
-        <br>지속적으로 성장하기 위해 끊임없이 배우고 노력하는 신입 개발자 입니다!</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">웹개발에 관심을 가지고 있는 신입입니다. 백엔드/서버개발 분야에 관심이 많고 HTML, Java, JavaScript, Java Servlet, CSS3, jQuery, JSP, Spring 등의 기술을 보유한 신입 개발자입니다.</div> 
+        <br>지속적으로 성장하기 위해 끊임없이 배우고 노력하는 신입 개발자 입니다!</h2><br>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">웹개발에 관심을 가지고 있는 신입입니다. 백엔드/서버개발 분야에 관심이 많고 HTML, Java, JavaScript, Java Servlet, CSS3, jQuery, JSP, Spring 등의 기술을 보유한 신입 개발자입니다.</div><br> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks 📚</h2><br> 
