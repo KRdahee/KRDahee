@@ -49,7 +49,7 @@
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=compact)](https://github.com/KRdahee/github-readme-stats)<br>
 <br>
-<br>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRdahee)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRdahee&hide=contribs,prs&show_icons=true&theme=graywhite)<br>
 <br>
 </div>
 <div align=center>
