@@ -8,9 +8,6 @@
         백엔드/서버개발 분야에 관심이 많고 HTML, Java, JavaScript,<br>
         Java Servlet, CSS3, jQuery, JSP, Spring 등의 기술을 보유한 신입 개발자입니다.</div><br> 
     </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=%22I+am+a+developer+who+constantly+learns+and+strives+to+continuously+grow.%22)](https://git.io/typing-svg)<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=In+my+opinion%2C+effort+is+not+a+means+to+achieve+something%2C+but+rather+the+process+itself+is+a+stepping+stone+to+meaningful+growth.+I+want+to+become+a+developer+who+actively+performs+work+with+a+progressive+attitude+and+positive+will+to+always+learn+anything.+I+will+become+a+positive+developer+who+thinks+of+ways+to+produce+the+best+results+in+a+given+environment+rather+than+obstacles+to+work+or+the+negative+consequences+that+result+from+them.+To+this+end%2C+I+will+approach+our+work+with+a+healthy+mindset+that+we+can+do+anything+in+any+situation.+And+during+this+process%2C+I+will+work+with+the+organization+in+a+cooperative+manner+to+accept+the+opinions+of+my+colleagues+and+find+consensus.+I+will+constantly+strive+to+develop+my+own+abilities+so+that+I+can+become+a+co-worker+whom+people+want+to+work+with+and+a+support+colleague+who+can+be+trusted+with+any+task.)](https://git.io/typing-svg)<br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
@@ -43,7 +40,6 @@
           <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white"><br>
           </div>
     </div><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=I+believe+that+communication+is+ultimately+the+most+important+aspect+of+development.+I+will+jump+in+to+solve+the+problem+through+active+communication.+Based+on+this%2C+I+will+learn+and+work+harder+to+grow+as+a+better+developer.)](https://git.io/typing-svg)<br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💬 Contact me 💬</h2><br>
     <div align= "center"> <a href=http> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=dhnotes.tistory.com"> </a>
