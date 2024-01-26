@@ -45,8 +45,7 @@
     <div align= "center"> <a href=http> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=dhnotes.tistory.com"> </a>
          <a href=mailto:huidll97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:huidll97@gmail.com"> </a>
          <a href=http> <img src="https://img.shields.io/badge/Instagram-4000BF?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
-          </div><br> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=I+have+experience+with+several+programming+languages%2C+including+Python+and+Java.++I+also+have+practical+experience+working+in+teams+with+diverse+members.++I+was+able+to+develop+my+communication%2C+time+management%2C+and+problem-solving+skills+by+being+part+of+a+team+and+ensuring+that+quality+work+was+produced+within+a+specific+time+frame!)](https://git.io/typing-svg)<br>
+          </div><br>
         
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=compact)](https://github.com/KRdahee/github-readme-stats)<br>
 <br>
