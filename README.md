@@ -47,9 +47,9 @@
          <a href=http> <img src="https://img.shields.io/badge/Instagram-4000BF?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
           </div><br> 
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact)](https://github.com/KRDahee/github-readme-stats)<br>
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=compact)](https://github.com/KRdahee/github-readme-stats)<br>
 <br>
-<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRDahee&show_icons=true&theme=dark)<br>
+<br>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRdahee)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>
 </div>
 <div align=center>
