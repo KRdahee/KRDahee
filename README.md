@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=300&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=70&fontColor=FFFFFF"/>	
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=200&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=70&fontColor=FFFFFF"/>	
 </div>
 <div align= "center"> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
@@ -8,8 +8,11 @@
         백엔드/서버개발 분야에 관심이 많고 HTML, Java, JavaScript,<br>
         Java Servlet, CSS3, jQuery, JSP, Spring 등의 기술을 보유한 신입 개발자입니다.</div><br> 
     </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=%22I+am+a+developer+who+constantly+learns+and+strives+to+continuously+grow.%22)](https://git.io/typing-svg)<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=In+my+opinion%2C+effort+is+not+a+means+to+achieve+something%2C+but+rather+the+process+itself+is+a+stepping+stone+to+meaningful+growth.+I+want+to+become+a+developer+who+actively+performs+work+with+a+progressive+attitude+and+positive+will+to+always+learn+anything.+I+will+become+a+positive+developer+who+thinks+of+ways+to+produce+the+best+results+in+a+given+environment+rather+than+obstacles+to+work+or+the+negative+consequences+that+result+from+them.+To+this+end%2C+I+will+approach+our+work+with+a+healthy+mindset+that+we+can+do+anything+in+any+situation.+And+during+this+process%2C+I+will+work+with+the+organization+in+a+cooperative+manner+to+accept+the+opinions+of+my+colleagues+and+find+consensus.+I+will+constantly+strive+to+develop+my+own+abilities+so+that+I+can+become+a+co-worker+whom+people+want+to+work+with+and+a+support+colleague+who+can+be+trusted+with+any+task.)](https://git.io/typing-svg)<br>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks 📚</h2><br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
@@ -39,19 +42,21 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white"><br>
           </div>
-    </div>
+    </div><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=I+believe+that+communication+is+ultimately+the+most+important+aspect+of+development.+I+will+jump+in+to+solve+the+problem+through+active+communication.+Based+on+this%2C+I+will+learn+and+work+harder+to+grow+as+a+better+developer.)](https://git.io/typing-svg)<br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💬 Contact me 💬</h2><br>
     <div align= "center"> <a href=http> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=dhnotes.tistory.com"> </a>
          <a href=mailto:huidll97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:huidll97@gmail.com"> </a>
          <a href=http> <img src="https://img.shields.io/badge/Instagram-4000BF?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
           </div><br> 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=FFFFFF&background=35B72B00&random=false&width=435&lines=I+have+experience+with+several+programming+languages%2C+including+Python+and+Java.++I+also+have+practical+experience+working+in+teams+with+diverse+members.++I+was+able+to+develop+my+communication%2C+time+management%2C+and+problem-solving+skills+by+being+part+of+a+team+and+ensuring+that+quality+work+was+produced+within+a+specific+time+frame!)](https://git.io/typing-svg)<br>
+        
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=compact)](https://github.com/KRdahee/github-readme-stats)<br>
 <br>
 <br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRdahee&hide=contribs,prs&show_icons=true&theme=graywhite)<br>
 <br>
 </div>
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 </div>
