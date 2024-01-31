@@ -49,8 +49,6 @@
         
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=compact)](https://github.com/KRdahee/github-readme-stats)<br>
 <br>
-<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRdahee&hide=contribs,prs&show_icons=true&theme=graywhite)<br>
-<br>
 </div>
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
