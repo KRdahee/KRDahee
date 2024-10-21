@@ -1,13 +1,11 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
 </div>
-<div align= "center"> 
+<!--<div align= "center"> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
-        <br>지속적으로 성장하기 위해 끊임없이 배우고 노력하는 신입 개발자 입니다!</h3><br>  
+        <br>  </h3><br>  
     <br>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">웹개발에 관심을 가지고 있는 신입입니다.<br>
-        백엔드/서버개발 분야에 관심이 많고 HTML, Java, JavaScript,<br>
-        Java Servlet, CSS3, jQuery, JSP, Spring 등의 기술을 보유한 신입 개발자입니다.</div><br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </div><br> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br> 
@@ -18,7 +16,7 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white"><br>
 
-<br>
+<!--<br>
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
