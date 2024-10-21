@@ -1,7 +1,7 @@
-<!--<div align=center>
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
 </div>
-<!--<div align= "center"> 
+<div align= "center"> 
     <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
         <br>  </h3><br>  
     <br>
@@ -16,7 +16,7 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white"><br>
 
-<!--<br>
+<br>
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
@@ -47,7 +47,7 @@
           </div><br>      
         -->
         <a href="https://github.com/KRDahee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact&theme=nord&hide_border=true" /></a> 
-<!--<br>
+<br>
 </div>
 </div>
 <div align=center>
