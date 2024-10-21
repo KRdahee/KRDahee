@@ -1,4 +1,4 @@
-<div align=center>
+<!--<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
 </div>
 <!--<div align= "center"> 
@@ -47,7 +47,7 @@
           </div><br>      
         -->
         <a href="https://github.com/KRDahee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact&theme=nord&hide_border=true" /></a> 
-<br>
+<!--<br>
 </div>
 </div>
 <div align=center>
