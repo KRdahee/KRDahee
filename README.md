@@ -43,7 +43,6 @@
          <a href=mailto:huidll97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:huidll97@gmail.com"> </a>
          <a href=http> <img src="https://img.shields.io/badge/Instagram-4000BF?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
           </div><br>      
-     
         <a href="https://github.com/KRDahee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact&theme=nord&hide_border=true" /></a> 
 <br>
 </div>
