@@ -7,7 +7,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </div><br> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br>
+        <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
