@@ -1,4 +1,4 @@
-<div align=center>
+<div align= "center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
 </div>
     <div style="margin: 0 auto; text-align: center;" align= "center">
