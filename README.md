@@ -1,20 +1,13 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
 </div>
-<div align= "center"> 
-    <h1 style="border-bottom: 1px solid #21262d; ">
-        <br> 안녕하세요 이다희입니다.</h1>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </div><br> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br>
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white"><br>
-
+    </div>
 <br>
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
