@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
 </div>
 <div align= "center"> 
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 
+    <!--<h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">-->
         <br> 안녕하세요 이다희입니다.</h1>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </div><br> 
     </div>
