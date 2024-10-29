@@ -2,12 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
 </div>
 <div align= "center"> 
-    <h1 style="border-bottom: 0px solid #21262d; color: #c9d1d9;">
+    <h1 style="border-bottom: 1px solid #21262d; ">
         <br> 안녕하세요 이다희입니다.</h1>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> </div><br> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 0px solid #21262d; color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br>
+    <h2 style="border-bottom: 1px color: #c9d1d9;"> 📚 Tech Stacks & Frequently used languages! 📚</h2><br>
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
