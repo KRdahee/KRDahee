@@ -1,5 +1,5 @@
 <div align= "center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF"/>	
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=BDBDC8&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=66&fontColor=FFFFFF" width=100% />	
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FF9100&text_color=fff&title_color=FF9100&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -43,7 +43,7 @@
          <a href=mailto:huidll97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:huidll97@gmail.com"> </a>
          <a href=http> <img src="https://img.shields.io/badge/Instagram-4000BF?style=plastic&logo=Instagram&logoColor=white&link=notyet.com"> </a>
           </div><br>      
-          
+   -->       
     <div align= "center">
         <a href="https://github.com/KRDahee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
