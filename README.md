@@ -46,8 +46,9 @@
           
     <div align= "center">
         <a href="https://github.com/KRDahee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact&theme=nord&hide_border=true" /></a> 
-<img src="https://github.com/KRdahee/KRdahee/blob/output/github-snake-dark.svg" width="100%">
 </div>
+<br>
+<img src="https://github.com/KRdahee/KRdahee/blob/output/github-snake-dark.svg" width="100%">
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer"/>
 </div>
