@@ -51,7 +51,7 @@
 <br>
 <img src="https://github.com/KRdahee/KRdahee/blob/output/github-snake-dark.svg" width="100%">
 <br>
-<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dahee-l-0a6060338" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/dahee-l-0a6060338?trk=profile-badge">I'm Dahee L. This is my LinkedIn. Thank you.</a></div>
+<div align= "center" class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dahee-l-0a6060338" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/dahee-l-0a6060338?trk=profile-badge">I'm Dahee L. This is my LinkedIn. Thank you.</a></div>
 <br>
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C0A&height=150&section=footer" width=95% />
