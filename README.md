@@ -11,7 +11,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRdahee&theme=react-dark&bg_color=20232a&hide_border=true&line=FF9100&color=FF9100" width=94%/>
 </a>
-    <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dahee-l-0a6060338" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/dahee-l-0a6060338?trk=profile-badge">Dahee L.</a></div>
 </div>
     <!--<div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
@@ -49,6 +48,8 @@
            <div align= "center">
         <a href="https://github.com/KRDahee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRDahee&layout=compact&theme=nord&hide_border=true" /></a> 
    -->       
+<br>
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dahee-l-0a6060338" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/dahee-l-0a6060338?trk=profile-badge">Hello I'm Dahee L. This is my LinkedIn. Thank you.</a></div>
 <br>
 <img src="https://github.com/KRdahee/KRdahee/blob/output/github-snake-dark.svg" width="100%">
 <br>
