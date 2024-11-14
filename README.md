@@ -11,6 +11,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRdahee&theme=react-dark&bg_color=20232a&hide_border=true&line=FF9100&color=FF9100" width=94%/>
 </a>
+    <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dahee-l-0a6060338" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/dahee-l-0a6060338?trk=profile-badge">Dahee L.</a></div>
 </div>
     <!--<div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
