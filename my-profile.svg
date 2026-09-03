@@ -1,146 +1,139 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
-    <style>
-        /* 배경창 테두리를 어둡게 하여 네온이 돋보이게 처리 */
-        .window { fill: #161B22; rx: 8px; stroke: #3A2108; stroke-width: 1px; }
-        .text-main { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #FF8C0A; }
-        .text-title { font-family: 'Courier New', Courier, monospace; font-size: 24px; font-weight: bold; fill: #FFFFFF; }
-        .text-label { fill: #A0A0A0; }
-        .text-white { fill: #FFFFFF; }
-        .skill-box { fill: #21262D; rx: 4px; stroke: #FF8C0A; stroke-width: 1px; }
-        .ascii-art { font-family: 'Courier New', Courier, monospace; font-size: 5px; fill: #FF8C0A; }
-    </style>
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="480" viewBox="0 0 950 480">
+  <defs>
+    <!-- 배경 및 패널 테두리 네온 효과 -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <!-- 텍스트 네온 효과 -->
+    <filter id="text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
 
-    <!-- 좌측 터미널 창 -->
-    <g transform="translate(20, 20)">
-        <rect width="240" height="360" class="window" />
-        
-        <!-- 👉 좌측 테두리 네온 애니메이션 (Glow + Core) -->
-        <!-- 박스 둘레(약 1186px)를 따라 선이 이동하도록 설정 -->
-        <rect width="240" height="360" rx="8" fill="none" stroke="#FF8C0A" stroke-width="4" stroke-dasharray="100 1086" stroke-linecap="round" opacity="0.8">
-            <animate attributeName="stroke-dashoffset" from="1186" to="0" dur="4s" repeatCount="indefinite" />
-        </rect>
-        <rect width="240" height="360" rx="8" fill="none" stroke="#FFDDB3" stroke-width="1.5" stroke-dasharray="100 1086" stroke-linecap="round">
-            <animate attributeName="stroke-dashoffset" from="1186" to="0" dur="4s" repeatCount="indefinite" />
-        </rect>
+  <style>
+    .bg { fill: #0d0d0d; }
+    .panel { fill: #141110; stroke: #ff6a00; stroke-width: 1.5; }
+    
+    /* 텍스트 스타일 */
+    .mono { font-family: 'Courier New', Courier, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    
+    .terminal-text { fill: #ffb880; font-size: 13px; }
+    .highlight { fill: #ff6a00; font-weight: bold; }
+    .ascii-art { fill: #ff6a00; font-size: 8px; letter-spacing: 1px; line-height: 8px; }
+    
+    .title { fill: #ffffff; font-size: 32px; font-weight: bold; }
+    .subtitle { fill: #ff8c42; font-size: 18px; font-weight: 500; }
+    .info-text { fill: #e0e0e0; font-size: 14px; }
+    .link-text { fill: #ff8c42; text-decoration: underline; }
+    
+    .section-title { fill: #ffffff; font-size: 16px; font-weight: bold; }
+    
+    /* 스킬 뱃지 스타일 */
+    .pill { fill: transparent; stroke: #ff8c42; stroke-width: 1; rx: 12; }
+    .pill-text { fill: #ffb880; font-size: 8px; text-anchor: middle; dominant-baseline: central; }
+  </style>
 
-        <!-- Mac OS 버튼 -->
-        <circle cx="15" cy="15" r="4" fill="#EF4444" />
-        <circle cx="30" cy="15" r="4" fill="#F59E0B" />
-        <circle cx="45" cy="15" r="4" fill="#10B981" />
-        <text x="65" y="19" font-family="monospace" font-size="10" fill="#A0A0A0">dahee@avatar:~</text>
-        
-        <text x="20" y="50" class="text-main" font-size="10">dahee@avatar:~$ neofetch</text>
-        
-        <!-- 여성 실루엣 ASCII -->
-        <text x="120" y="70" class="ascii-art" text-anchor="middle" xml:space="preserve">
-            <tspan x="120" dy="0">,╓▄▄▄▄▄▄▄▄▄╖,</tspan>
-            <tspan x="120" dy="5">,▄█████████████████▄,</tspan>
-            <tspan x="120" dy="5">▄███████████████████████▄</tspan>
-            <tspan x="120" dy="5">▄███████████████████████████▄</tspan>
-            <tspan x="120" dy="5">███████████████████████████████</tspan>
-            <tspan x="120" dy="5">█████████████████████████████████</tspan>
-            <tspan x="120" dy="5">███████████████████████████████████</tspan>
-            <tspan x="120" dy="5">███████████████████████████████████</tspan>
-            <tspan x="120" dy="5">██████████████▀▀▀▀▀▀▀██████████████</tspan>
-            <tspan x="120" dy="5">████████████           ████████████</tspan>
-            <tspan x="120" dy="5">████████████   |   |   ████████████</tspan>
-            <tspan x="120" dy="5">████████████           ████████████</tspan>
-            <tspan x="120" dy="5">████████████▄▄       ▄▄████████████</tspan>
-            <tspan x="120" dy="5">███████████████████████████████████</tspan>
-            <tspan x="120" dy="5">█████████████████████████████████</tspan>
-            <tspan x="120" dy="5">█████████████████████████████████</tspan>
-            <tspan x="120" dy="5">███████████████████████████████</tspan>
-            <tspan x="120" dy="5">███████████████████████████████</tspan>
-            <tspan x="120" dy="5">█████████████████████████████████</tspan>
-            <tspan x="120" dy="5">███████████████████████████████████</tspan>
-            <tspan x="120" dy="5">▄▄▄██████████████████████████████████████████▄▄▄</tspan>
-            <tspan x="120" dy="5">▄████████████████████████████████████████████████████▄</tspan>
-            <tspan x="120" dy="5">▄████████████████████████████████████████████████████████▄</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-            <tspan x="120" dy="5">████████████████████████████████████████████████████████████</tspan>
-        </text>
+  <!-- 전체 배경 (선택 사항: 투명하게 하려면 삭제 가능) -->
+  <rect class="bg" width="950" height="480" />
+
+  <!-- ================= 왼쪽 패널 (아바타) ================= -->
+  <g transform="translate(20, 20)">
+    <!-- 패널 배경 -->
+    <rect class="panel" width="310" height="440" rx="10" filter="url(#neon-glow)" />
+    
+    <!-- 터미널 상단 버튼 -->
+    <circle cx="20" cy="20" r="6" fill="#ff5f56" />
+    <circle cx="40" cy="20" r="6" fill="#ffbd2e" />
+    <circle cx="60" cy="20" r="6" fill="#27c93f" />
+    <text x="155" y="24" class="mono terminal-text" text-anchor="middle" font-size="12px"> Hello World </text>
+    
+    <!-- 터미널 명령어 -->
+    <text x="20" y="55" class="mono terminal-text"><tspan class="highlight">✩‧₊˚(๑ ᐢ ᵕ ᐢ ๑)𝚈𝙾𝚄𝚁 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 ✩‧₊˚</tspan></text>
+    
+    <!-- ASCII 실루엣 (텍스트 크기를 줄여 디테일 표현) -->
+    <!-- 본인의 사진을 ASCII로 변환해 여기에 붙여넣으면 더욱 개인화할 수 있습니다. -->
+    <text x="155" y="80" class="mono ascii-art" text-anchor="middle" filter="url(#text-glow)">
+      <tspan x="155" dy="1.2em">.::..::..::..::..::..::..::.</tspan>
+    </text>
+  </g>
+
+  <!-- ================= 오른쪽 패널 (정보) ================= -->
+  <g transform="translate(350, 20)">
+    <!-- 패널 배경 -->
+    <rect class="panel" width="580" height="440" rx="10" filter="url(#neon-glow)" />
+    
+    <!-- 터미널 상단 버튼 -->
+    <circle cx="20" cy="20" r="6" fill="#ff5f56" />
+    <circle cx="40" cy="20" r="6" fill="#ffbd2e" />
+    <circle cx="60" cy="20" r="6" fill="#27c93f" />
+    <text x="290" y="24" class="mono terminal-text" text-anchor="middle" font-size="12px">terminal</text>
+    
+    <!-- 인사말 -->
+    <text x="30" y="70" class="mono terminal-text">const greeting = "HI👋";</text>
+    
+    <!-- 타이틀 (네온 글로우 효과) -->
+    <text x="30" y="115" class="sans title" filter="url(#text-glow)">I'm Dahee Lee 🧡</text>
+    
+    <!-- 서브타이틀 -->
+    <text x="30" y="145" class="mono subtitle">Business-Minded Developer & System Engineer</text>
+    
+    <!-- 구분선 -->
+    <line x1="30" y1="165" x2="550" y2="165" stroke="#332211" stroke-width="2" />
+    
+    <!-- 상세 정보 -->
+    <g transform="translate(30, 195)" class="sans info-text">
+      <text y="0">📍 Location: South Korea </text>
+      <text y="30">🎓 Education: </text>
+      <text y="60">&gt;_ Focus: WebGL (GSAP/3JS) &amp; Experiential UI</text>
+      <text y="90">🌐 Portfolio: <tspan class="link-text">sarahc.dev</tspan></text>
+      <text y="120">✉️ Email: <tspan class="link-text">sarah.chen@email.dev</tspan></text>
     </g>
-
-    <!-- 우측 터미널 창 -->
-    <g transform="translate(280, 20)">
-        <rect width="500" height="360" class="window" />
-        
-        <!-- 👉 우측 테두리 네온 애니메이션 (Glow + Core) -->
-        <!-- 박스 둘레(약 1706px)를 따라 선이 이동하도록 설정 -->
-        <rect width="500" height="360" rx="8" fill="none" stroke="#FF8C0A" stroke-width="4" stroke-dasharray="150 1556" stroke-linecap="round" opacity="0.8">
-            <animate attributeName="stroke-dashoffset" from="1706" to="0" dur="5s" repeatCount="indefinite" />
-        </rect>
-        <rect width="500" height="360" rx="8" fill="none" stroke="#FFDDB3" stroke-width="1.5" stroke-dasharray="150 1556" stroke-linecap="round">
-            <animate attributeName="stroke-dashoffset" from="1706" to="0" dur="5s" repeatCount="indefinite" />
-        </rect>
-
-        <!-- Mac OS 버튼 -->
-        <circle cx="15" cy="15" r="4" fill="#EF4444" />
-        <circle cx="30" cy="15" r="4" fill="#F59E0B" />
-        <circle cx="45" cy="15" r="4" fill="#10B981" />
-        <text x="180" y="19" font-family="monospace" font-size="10" fill="#A0A0A0">dahee@terminal:~</text>
-
-        <!-- 메인 프로필 내용 -->
-        <text x="30" y="60" class="text-label" font-family="monospace" font-size="14">const greeting = "Hi ☕";</text>
-        <text x="30" y="95" class="text-title">I'm Dahee</text>
-        <text x="30" y="130" class="text-white" font-family="monospace" font-size="16">$ ~</text>
-        
-        <!-- 👉 주황색 커서 깜빡임 애니메이션 추가 -->
-        <rect x="65" y="117" width="10" height="16" fill="#FF8C0A">
-            <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-        </rect>
-
-        <!-- 세부 항목 -->
-        <text x="30" y="170" class="text-main"><tspan class="text-label">Location:</tspan> Asan-si, Chungcheongnam-do</text>
-        <text x="30" y="200" class="text-main"><tspan class="text-label">Focus:</tspan> 집순이 힐링형 로컬 여행 기획</text>
-        <text x="30" y="230" class="text-main"><tspan class="text-label">Project:</tspan> 골방아산 (Golbang Asan)</text>
-        
-        <text x="30" y="260" class="text-main"><tspan class="text-label">Contact:</tspan> dahee@example.com</text>
-        
-        <text x="30" y="300" class="text-white" font-weight="bold" font-family="monospace" font-size="14">Skills &amp; Capabilities</text>
-        
-        <!-- 스킬 뱃지 -->
-        <g transform="translate(30, 320)">
-            <rect x="0" y="0" width="70" height="24" class="skill-box"/>
-            <text x="35" y="16" class="text-white" font-family="monospace" font-size="12" text-anchor="middle">Planning</text>
-            
-            <rect x="80" y="0" width="70" height="24" class="skill-box"/>
-            <text x="115" y="16" class="text-white" font-family="monospace" font-size="12" text-anchor="middle">Branding</text>
-            
-            <rect x="160" y="0" width="60" height="24" class="skill-box"/>
-            <text x="190" y="16" class="text-white" font-family="monospace" font-size="12" text-anchor="middle">SWOT</text>
-            
-            <rect x="230" y="0" width="80" height="24" class="skill-box"/>
-            <text x="270" y="16" class="text-white" font-family="monospace" font-size="12" text-anchor="middle">Revenue</text>
-        </g>
+    
+    <!-- 스킬 섹션 -->
+    <text x="30" y="360" class="sans section-title">Skills &amp; Technologies</text>
+    
+    <g transform="translate(30, 380)">
+      <!-- Row 1 -->
+      <rect class="pill" x="0" y="0" width="70" height="28" />
+      <text class="sans pill-text" x="35" y="14">React</text>
+      
+      <rect class="pill" x="80" y="0" width="80" height="28" />
+      <text class="sans pill-text" x="120" y="14">Vue.js</text>
+      
+      <rect class="pill" x="170" y="0" width="90" height="28" />
+      <text class="sans pill-text" x="215" y="14">Three.js</text>
+      
+      <rect class="pill" x="270" y="0" width="70" height="28" />
+      <text class="sans pill-text" x="305" y="14">GSAP</text>
+      
+      <rect class="pill" x="350" y="0" width="100" height="28" />
+      <text class="sans pill-text" x="400" y="14">TypeScript</text>
+      
+      <!-- Row 2 -->
+      <rect class="pill" x="0" y="38" width="80" height="28" />
+      <text class="sans pill-text" x="40" y="52">Node.js</text>
+      
+      <rect class="pill" x="90" y="38" width="100" height="28" />
+      <text class="sans pill-text" x="140" y="52">PostgreSQL</text>
+      
+      <rect class="pill" x="200" y="38" width="70" height="28" />
+      <text class="sans pill-text" x="235" y="52">Figma</text>
+      
+      <rect class="pill" x="280" y="38" width="80" height="28" />
+      <text class="sans pill-text" x="320" y="52">Vercel</text>
+      
+      <rect class="pill" x="370" y="38" width="60" height="28" />
+      <text class="sans pill-text" x="400" y="52">Git</text>
     </g>
+  </g>
 </svg>
