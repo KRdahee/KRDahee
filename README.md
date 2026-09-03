@@ -8,8 +8,11 @@
   <br>
   <br>
 
-  <!-- 커스텀 언어 카드 (캐시 방지 파라미터 적용) -->
-  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/main/languages-stat.svg?v=99" width="100%" />
+  <!-- 실시간 자동 언어 통계 카드 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=compact&theme=radical&hide_border=true&bg_color=141110&title_color=ff6a00&text_color=a0a0a0" width="100%" />
+  </a>
+  <br>
   <br>
 
   <!-- 3. 스네이크 애니메이션 -->
