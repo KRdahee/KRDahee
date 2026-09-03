@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: KRdahee
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6a00&color_dots=#141110,#4a1f00,#993d00,#e65c00,#ff8c42
+            dist/github-snake-dark.svg?palette=github-light&color_snake=#ff6a00&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
