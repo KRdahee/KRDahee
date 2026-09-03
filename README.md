@@ -13,7 +13,7 @@
   <br>
 
   <!-- 커스텀 언어 카드 (languages.svg) -->
-  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/main/languages.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/main/languages-stat.svg" width="95%" />
   
   <br>
 
