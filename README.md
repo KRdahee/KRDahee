@@ -4,8 +4,8 @@
   
   <br><br>
 
-  <!-- 2. 실시간 언어 통계 (캐시 무시 &v=1 추가) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRdahee&layout=compact&bg_color=FF8C0A&title_color=ffffff&text_color=ffffff&hide_border=true&icon_color=ffffff&v=2" width="95%" alt="Top Languages" />
+  <!-- 2. 실시간 언어 통계 (URL 물음표 앞 슬래시 제거 완료) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KRdahee&layout=compact&bg_color=FF8C0A&title_color=ffffff&text_color=ffffff&hide_border=true&icon_color=ffffff&v=2" width="95%" alt="Top Languages" />
   
   <br><br>
 
