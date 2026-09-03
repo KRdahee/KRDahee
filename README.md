@@ -4,8 +4,8 @@
   
   <br><br>
 
-  <!-- 프로필 SVG 카드 추가 -->
-  <img src="./my-profile.svg" width="95%" />
+  <!-- 프로필 SVG 카드 (Raw 주소 적용 및 캐시 무시용 파라미터 추가) -->
+  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/main/my-profile.svg?v=1" width="95%" />
 
   <br><br>
 
