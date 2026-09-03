@@ -42,13 +42,13 @@
     <g clip-path="url(#bar-clip)">
         <rect x="25" y="85" width="750" height="8" fill="#222222" />
         <!-- TypeScript -->
-        <rect x="25" y="85" width="703" height="8" fill="#ff6a00" />
+        <rect x="25" y="85" width="700" height="8" fill="#ff6a00" />
         <!-- Rust -->
-        <rect x="728" y="85" width="30" height="8" fill="#ffbd2e" />
+        <rect x="725" y="85" width="30" height="8" fill="#ffbd2e" />
         <!-- Go -->
-        <rect x="758" y="85" width="13" height="8" fill="#27c93f" />
+        <rect x="755" y="85" width="13" height="8" fill="#27c93f" />
         <!-- JavaScript -->
-        <rect x="771" y="85" width="4" height="8" fill="#ff5f56" />
+        <rect x="768" y="85" width="7" height="8" fill="#ff5f56" />
     </g>
 
     <!-- 첫 번째 줄 (왼쪽: TypeScript / 오른쪽: Go) -->
