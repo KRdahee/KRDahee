@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=ff6a00&height=280&section=header&text=Hello!&nbsp;I'm&nbsp;Dahee&fontSize=70&fontColor=FFFFFF&v=2" width="96%" />
 
   <!-- 프로필 SVG 카드 -->
-  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/main/my-profile.svg?v=1" width="96%" />
+  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/main/my-profile.svg?v=1" width="98%" />
   
   <br>
 
