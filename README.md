@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/main/my-profile.svg?v=1" width="100%" />
   <br />
   <br />
-  <img src="./languages-stat.svg?v=1" width="100%" />
+  <img src="./languages-stat.svg?v=99" width="100%" />
   <br />
   <br />
   <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/output/github-snake-dark.svg" width="100%" />
