@@ -14,35 +14,51 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake Animation
+      # 1. GitHub Snake GIF 생성
+      - name: Generate Snake GIF
         uses: Platane/snk@v3
         with:
           github_user_name: KRdahee
           outputs: |
             dist/github-snake.gif?color_snake=#ff6a00&color_dots=#2A2422,#331a00,#803300,#cc5200,#ff6a00&color_background=#00ff00
 
-      - name: Remove GIF Background
+      # 2. ImageMagick 설치
+      - name: Install ImageMagick
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
 
+      # 3. GIF 배경을 투명하게 변환
+      - name: Make GIF Background Transparent
+        run: |
+          mkdir -p output
+
           convert dist/github-snake.gif \
             -coalesce \
             -alpha on \
-            -fuzz 1% \
+            -fuzz 5% \
             -transparent "#00ff00" \
-            -layers Optimize \
-            dist/github-snake-transparent.gif
+            output/github-snake-transparent.gif
 
+      # 4. 변환 결과 확인
+      - name: Check Generated File
+        run: |
+          ls -lh dist
+          ls -lh output
+          identify output/github-snake-transparent.gif
+
+      # 5. output 브랜치에 업로드
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
