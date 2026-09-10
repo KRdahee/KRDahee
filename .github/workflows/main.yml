@@ -24,9 +24,9 @@ jobs:
         with:
           github_user_name: KRdahee
           outputs: |
-            dist/github-snake.gif?color_snake=#ff6a00&color_dots=#2A2422,#331a00,#803300,#cc5200,#ff6a00
+            dist/github-snake.gif?color_snake=#ff6a00&color_dots=#2A2422,#331a00,#803300,#cc5200,#ff6a00&color_background=#00ff00
 
-      - name: Make GIF Background Transparent
+      - name: Remove GIF Background
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
@@ -34,8 +34,8 @@ jobs:
           magick dist/github-snake.gif \
             -coalesce \
             -alpha on \
-            -fuzz 3% \
-            -transparent "#ffffff" \
+            -fuzz 1% \
+            -transparent "#00ff00" \
             -layers Optimize \
             dist/github-snake-transparent.gif
 
