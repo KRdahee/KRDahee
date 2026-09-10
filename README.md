@@ -27,11 +27,7 @@
   <br />
 
   <!-- GitHub Snake -->
-  <img
-    src="https://raw.githubusercontent.com/KRdahee/KRdahee/output/github-snake.gif?v=1"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/output/github-snake-transparent.gif?v=1" width="100%" />
 
   <br />
   <br />
@@ -43,3 +39,5 @@
   />
 
 </div>
+
+
