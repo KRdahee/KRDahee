@@ -27,7 +27,10 @@
   <br />
 
   <!-- GitHub Snake -->
-  <img src="https://raw.githubusercontent.com/KRdahee/KRdahee/output/github-snake-transparent.gif?v=1" width="100%" />
+<img
+  src="https://raw.githubusercontent.com/KRdahee/KRdahee/output/github-snake-transparent.gif?v=1"
+  width="100%"
+/>
 
   <br />
   <br />
